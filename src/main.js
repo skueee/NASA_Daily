@@ -1,4 +1,8 @@
-const API_KEY = import.meta.env.VITE_NASA_API_KEY;
+let API_KEY = import.meta.env.VITE_NASA_API_KEY;
+
+if (API_KEY == undefined) {
+  API_KEY = "DEMO_KEY"
+}
 
 document.querySelector("#app").innerHTML = "<p>loading...</p>"
 
