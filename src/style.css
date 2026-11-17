@@ -47,6 +47,12 @@ h2 {
   color: #a5c9ff;
 }
 
+a {
+  font-family: sans-serif;
+  color: #a5c9ff;
+  line-height: 1.5;
+}
+
 .banner {
   width: 100%;
   padding: 2rem 0;
