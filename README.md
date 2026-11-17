@@ -6,7 +6,6 @@
 
 Follow this [link](https://gooderswills.github.io/NASA_Daily/)
 
-
 **If you have an queries or issues contact me on slack (@Gooderswills) or feel free to report an issue on [github](https://github.com/Gooderswills/NASA_Daily/issues)**
 
 ## Thanks:
